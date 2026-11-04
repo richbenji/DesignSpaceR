@@ -28,7 +28,7 @@ The app is organized into six main tabs:
 ### Purpose:
 Define the excipients and their concentration values or ranges.
 
-![1 - Parameters range](1 - Parameters range.png)
+![1 - Parameters range](1-Parameters-range.png)
 
 ### Features:
 - Add multiple excipients.
@@ -50,7 +50,7 @@ Define the excipients and their concentration values or ranges.
 ### Purpose:
 Generate simulated combinations of excipient concentrations.
 
-![2 - Randomization of parameters](2 - Randomization of parameters.png)
+![2 - Randomization of parameters](2-Randomization-of-parameters.png)
 
 ### Features:
 - Set number of simulations.
@@ -71,7 +71,7 @@ Generate simulated combinations of excipient concentrations.
 ### Purpose:
 Visualize CQA predictions using SPLOM (scatter plot matrix) with Plotly.
 
-![3 - Global design space](3 - Global design space.png)
+![3 - Global design space](3-Global-design-space.png)
 
 ### Features:
 - Import multiple CQA prediction files.
@@ -99,9 +99,9 @@ Visualize CQA predictions using SPLOM (scatter plot matrix) with Plotly.
 ### Purpose:
 Visualize acceptability zones using faceted scatter plots with ggplot2.
 
-![4 - Design space 1](4 - Design space 1.png)
+![4 - Design space 1](4-Design-space-1.png)
 
-![4 - Design space 2](4 - Design space 2.png)
+![4 - Design space 2](4-Design-space-2.png)
 
 ### Features:
 
